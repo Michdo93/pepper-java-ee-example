@@ -1,0 +1,10 @@
+package com.hfu.pepper.helloworld;
+
+import com.aldebaran.qi.*;
+import com.aldebaran.qi.Application;
+import com.aldebaran.qi.helper.*;
+import com.aldebaran.qi.helper.proxies.*;
+
+public class PepperTest {
+
+}

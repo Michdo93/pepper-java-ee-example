@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.hfu.pepper.helloworld.PepperTest.robotURL&apos; in &apos;com.hfu.pepper.helloworld.PepperTest&apos;&#x0A;- Original project: &apos;PepperHelloWorldServlet&apos;&#x0A;- Original element: &apos;com.hfu.pepper.helloworld.PepperTest.robotURL&apos;&#x0A;- Getter method name: &apos;getRobotURL&apos;&#x0A;- Setter method name: &apos;setRobotURL&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;robotURL&apos;" flags="589830" getter="getRobotURL" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.hfu.pepper.helloworld{PepperTest.java[PepperTest^robotURL" insertion="1" setter="setRobotURL" stamp="1653046800132" version="1.0" visibility="1"/>
+</session>

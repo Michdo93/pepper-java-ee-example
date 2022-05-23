@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/nao/eclipse-java-ee/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1662199520.index
+541555327.index
+165055305.index
+1487972676.index
+2417645033.index
+2744240526.index

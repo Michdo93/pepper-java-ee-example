@@ -1,0 +1,40 @@
+package com.hfu.pepper.helloworld;
+
+import com.aldebaran.qi.*;
+import com.aldebaran.qi.Application;
+import com.aldebaran.qi.helper.*;
+import com.aldebaran.qi.helper.proxies.*;
+
+public class PepperTest {
+    private String ip_address;
+    private int port;
+    private String robotURL;
+    private Session session;
+    private com.aldebaran.qi.Application application;/*
+    private ALRobotPosture postureService;
+    private ALMotion motionService;
+    private ALTracker trackerService;*/
+    private ALAnimatedSpeech ttsService;/*
+    private ALTabletService tabletService;
+    private ALAutonomousLife autonomousLifeService;
+    private ALSystem alSystemService;
+    private ALNavigation alNavigationService;
+    private ALBattery alBatteryService;
+    private ALBasicAwareness awarenessService;
+    private ALLeds ledService;
+    private ALAudioDevice audioDevice;
+    private ALVideoDevice cameraDevice;
+    private ALFaceDetection faceDetectionService;
+    private ALMemory memoryService;
+    private ALAudioPlayer audioService;
+    private ALAnimationPlayer animationService;
+    private ALBehaviorManager behaviorManagerService;
+    private ALFaceCharacteristics faceCharacteristics;
+    private ALPeoplePerception peoplePerception;
+    private ALSpeechRecognition speechService;
+    private ALDialog dialogService;
+    private ALAudioRecorder audioRecorder;*/
+    
+    
+
+}
